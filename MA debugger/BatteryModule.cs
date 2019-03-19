@@ -165,7 +165,7 @@ namespace MA_debugger
                                 _form.UpdateMeasurements();
                             } else
                             {
-                                // Если 3 раза ответ неверный, то записать в журнал "Ошибка связи"
+                                // Если 3 раза ответ неверный, то записать в журнал "Ошибка связи".
                             }
                             _countOfReceiveBufferBytes = 0;
                             _lastCommand = UartCommand.Null;
