@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MA_debugger.Properties
+namespace BMS_debugger.Properties
 {
 
 
